@@ -1,10 +1,10 @@
 permalink: /:year:month:day/:title
-url: #Your url here
-baseurl: /project
+url: https://ghwnswkd2002.github.io #Your url here
+baseurl: /
 
 # variables
-name: Your Site Name
-description: Your description here
+name: 호준쟝
+description: 울쭈쭈니
 google_verification: null
 
 
